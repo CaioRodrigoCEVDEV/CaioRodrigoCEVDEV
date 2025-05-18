@@ -9,7 +9,7 @@
 
 🧑‍💻 Desenvolvedor Full Stack focado em soluções web modernas  
 🤖 Criei projetos como o [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar) e APIs para encurtamento e CRUD com PostgreSQL  
-💡 Especialista em JavaScript, Node.js, RESTful APIs e automações  
+💡 Especializando em JavaScript, Node.js, RESTful APIs e automações  
 🔧 Integração com bancos de dados e sistemas backend escaláveis  
 🧱 Apaixonado por arquitetura limpa, código simples e útil  
 📍 Valparaíso de Goiás – DF  
@@ -22,7 +22,7 @@
 
 🧑‍💻 Full Stack Developer focused on modern web solutions  
 🤖 Creator of [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar) and APIs for URL shortening and PostgreSQL CRUD operations  
-💡 Skilled in JavaScript, Node.js, RESTful APIs, and process automation  
+💡 Specializing in JavaScript, Node.js, RESTful APIs, and process automation  
 🔧 Database integration, and scalable backend systems  
 🧱 Passionate about clean architecture, simple code, and practical solutions  
 📍 Valparaíso de Goiás – Brazil  
