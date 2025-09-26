@@ -38,5 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DevOps](https://img.shields.io/badge/-DevOps-black?style=flat-square&logo=devpost)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 
