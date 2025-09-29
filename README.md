@@ -7,7 +7,7 @@
 
 ### 🇧🇷 Sobre mim
 
-🧑‍💻 Desenvolvedor Full Stack focado em soluções web modernas  
+🧑‍💻 Desenvolvedor Back-end focado em soluções web modernas  
 🤖 Criei projetos como o [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar) e CRUD com PostgreSQL  
 💡 Especializando em JavaScript, Node.js, RESTful APIs e automações  
 🔧 Integração com bancos de dados e sistemas backend escaláveis  
@@ -20,7 +20,7 @@
 
 ### 🌍 About me
 
-🧑‍💻 Full Stack Developer focused on modern web solutions  
+🧑‍💻 Back-end Developer focused on modern web solutions  
 🤖 Creator of [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar) and PostgreSQL CRUD operations  
 💡 Specializing in JavaScript, Node.js, RESTful APIs, and process automation  
 🔧 Database integration, and scalable backend systems  
