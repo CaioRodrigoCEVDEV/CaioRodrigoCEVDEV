@@ -1,6 +1,6 @@
 <h1 align="center">Caio Rodrigo</h1>
 <p align="center">
-🧑‍💻 Desenvolvedor Full Stack | Full Stack Developer  
+🧑‍💻 Desenvolvedor Back-end | Back-end Developer  
 </p>
 
 ---
