@@ -1,7 +1,7 @@
 <h1 align="center">Caio Rodrigo</h1>
 
 <p align="center">
-  🧑‍💻 Desenvolvedor Back-end | Back-end Developer
+  🧑‍💻 Desenvolvedor | Developer
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou desenvolvedor back-end focado na criação de soluções web modernas, APIs, automações e sistemas úteis para o dia a dia.
+Sou desenvolvedor focado na criação de soluções web modernas, APIs, automações e sistemas úteis para o dia a dia.
 
 Tenho experiência com desenvolvimento de aplicações usando **JavaScript**, **Node.js**, **Express**, **PostgreSQL**, integrações com bancos de dados, autenticação, deploy em VPS Linux e estruturação de projetos com foco em código simples, organizado e escalável.
 
@@ -22,7 +22,7 @@ Também desenvolvo projetos próprios, como o **Tom FormalAI**, uma extensão pa
 
 Gosto de transformar ideias simples em produtos funcionais, com arquitetura limpa, boa experiência de uso e foco em resolver problemas reais.
 
-* 🧑‍💻 Desenvolvedor Back-end
+* 🧑‍💻 Desenvolvedor
 * 🚀 Foco em Node.js, APIs REST, PostgreSQL e automações
 * 🧱 Interesse em arquitetura limpa, organização de código e boas práticas
 * 🖥️ Experiência com deploy em VPS Linux, Apache, PM2 e Docker
@@ -35,7 +35,7 @@ Gosto de transformar ideias simples em produtos funcionais, com arquitetura limp
 
 ## 🌍 About me
 
-I am a back-end developer focused on building modern web solutions, APIs, automations, and useful systems for real-world needs.
+I am a developer focused on building modern web solutions, APIs, automations, and useful systems for real-world needs.
 
 I have experience developing applications with **JavaScript**, **Node.js**, **Express**, **PostgreSQL**, database integrations, authentication, Linux VPS deployment, and project organization focused on clean, simple, and scalable code.
 
@@ -43,7 +43,7 @@ I also build my own products, such as **Tom FormalAI**, a Chrome extension desig
 
 I enjoy turning simple ideas into functional products with clean architecture, good user experience, and a strong focus on solving practical problems.
 
-* 🧑‍💻 Back-end Developer
+* 🧑‍💻 Developer
 * 🚀 Focused on Node.js, REST APIs, PostgreSQL, and automation
 * 🧱 Interested in clean architecture, code organization, and best practices
 * 🖥️ Experience with Linux VPS deployment, Apache, PM2, and Docker
@@ -74,12 +74,13 @@ I enjoy turning simple ideas into functional products with clean architecture, g
 
 ## 🚀 Principais focos
 
+* Desenvolvimento de aplicações web
 * Desenvolvimento de APIs RESTful
 * Integração com bancos de dados relacionais
 * Autenticação e controle de acesso
 * Automação de processos
 * Deploy de aplicações em VPS Linux
-* Estruturação de projetos back-end
+* Estruturação de projetos organizados
 * Desenvolvimento de produtos próprios
 * Sistemas SaaS e ferramentas web
 
