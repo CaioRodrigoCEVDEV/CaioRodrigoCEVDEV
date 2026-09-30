@@ -1,120 +1,109 @@
-<h1 align="center">Caio Rodrigo</h1>
+# Olá, eu sou Caio 👋
 
-<p align="center">
-  🧑‍💻 Desenvolvedor | Developer
-</p>
+**Desenvolvedor de software focado em backend, produtos web, automação e aplicações com IA.**
 
-<p align="center">
-  <a href="https://caiorodrigocev.com.br">Portfólio</a> •
-  <a href="mailto:contato@caiorodrigocev.com.br">Contato</a> •
-  <a href="https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar">Tom FormalAI</a>
-</p>
+[Portfólio](https://caiorodrigocev.com.br) · [E-mail](mailto:contato@caiorodrigocev.com.br)
 
 ---
 
-## 🇧🇷 Sobre mim
+## Sobre mim
 
-Sou desenvolvedor focado na criação de soluções web modernas, APIs, automações e sistemas úteis para o dia a dia.
+Trabalho na construção de software e produtos, com foco em backend, APIs e sistemas web. Desenvolvo aplicações que envolvem bancos de dados relacionais, autenticação, painéis administrativos, integrações e automação de processos, priorizando código organizado e soluções que resolvem problemas reais.
 
-Tenho experiência com desenvolvimento de aplicações usando **JavaScript**, **Node.js**, **Express**, **PostgreSQL**, integrações com bancos de dados, autenticação, deploy em VPS Linux e estruturação de projetos com foco em código simples, organizado e escalável.
-
-Também desenvolvo projetos próprios, como o **Tom FormalAI**, uma extensão para auxiliar na escrita formal de mensagens no WhatsApp, além de ferramentas web, sistemas administrativos, automações e aplicações SaaS.
-
-Gosto de transformar ideias simples em produtos funcionais, com arquitetura limpa, boa experiência de uso e foco em resolver problemas reais.
-
-* 🧑‍💻 Desenvolvedor
-* 🚀 Foco em Node.js, APIs REST, PostgreSQL e automações
-* 🧱 Interesse em arquitetura limpa, organização de código e boas práticas
-* 🖥️ Experiência com deploy em VPS Linux, Apache, PM2 e Docker
-* 🤖 Criador do [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar)
-* 📍 Valparaíso de Goiás – DF
-* 🌐 Portfólio: [caiorodrigocev.com.br](https://caiorodrigocev.com.br)
-* 📬 E-mail: [contato@caiorodrigocev.com.br](mailto:contato@caiorodrigocev.com.br)
+Também construo produtos próprios e exploro o uso de IA aplicada a software, além de trabalhar com Linux e infraestrutura para manter os projetos em execução.
 
 ---
 
-## 🌍 About me
+## 🧰 Tecnologias
 
-I am a developer focused on building modern web solutions, APIs, automations, and useful systems for real-world needs.
+### Backend
 
-I have experience developing applications with **JavaScript**, **Node.js**, **Express**, **PostgreSQL**, database integrations, authentication, Linux VPS deployment, and project organization focused on clean, simple, and scalable code.
+* Node.js
+* Express
+* PostgreSQL
+* Prisma
+* APIs REST
+* JWT
 
-I also build my own products, such as **Tom FormalAI**, a Chrome extension designed to help users write more formal WhatsApp messages, as well as web tools, admin systems, automations, and SaaS applications.
+### Frontend
 
-I enjoy turning simple ideas into functional products with clean architecture, good user experience, and a strong focus on solving practical problems.
+* React
+* TypeScript
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
 
-* 🧑‍💻 Developer
-* 🚀 Focused on Node.js, REST APIs, PostgreSQL, and automation
-* 🧱 Interested in clean architecture, code organization, and best practices
-* 🖥️ Experience with Linux VPS deployment, Apache, PM2, and Docker
-* 🤖 Creator of [Tom FormalAI](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar)
-* 📍 Valparaíso de Goiás – Brazil
-* 🌐 Portfolio: [caiorodrigocev.com.br](https://caiorodrigocev.com.br)
-* 📬 E-mail: [contato@caiorodrigocev.com.br](mailto:contato@caiorodrigocev.com.br)
+### IA e Desktop
 
----
+* Python
+* Electron
+* Faster-Whisper
+* Ollama
+* IA local
 
-## 🛠️ Tecnologias e Ferramentas
+### Infraestrutura
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Prisma-000?style=flat-square&logo=prisma" />
-  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
-  <img src="https://img.shields.io/badge/Linux-000?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/Git-000?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Apache-000?style=flat-square&logo=apache" />
-  <img src="https://img.shields.io/badge/PM2-000?style=flat-square&logo=pm2" />
-</p>
-
----
-
-## 🚀 Principais focos
-
-* Desenvolvimento de aplicações web
-* Desenvolvimento de APIs RESTful
-* Integração com bancos de dados relacionais
-* Autenticação e controle de acesso
-* Automação de processos
-* Deploy de aplicações em VPS Linux
-* Estruturação de projetos organizados
-* Desenvolvimento de produtos próprios
-* Sistemas SaaS e ferramentas web
-
-
-### 🌐 Portfólio
-
-Meu site pessoal com projetos, informações profissionais e formas de contato.
-
-🔗 [caiorodrigocev.com.br](https://caiorodrigocev.com.br)
+* Linux
+* Docker
+* Apache
+* PM2
+* Git
+* GitHub Actions
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioRodrigoCEVDEV&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRodrigoCEVDEV&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+### 🎙️ MegaWhisper
+
+Aplicação desktop para Linux focada em ditado por voz, transcrição local e recursos de IA.
+
+**Stack:** Electron · React · TypeScript · Go · Python · Faster-Whisper · Ollama
+
+[Ver projeto →](https://github.com/CaioRodrigoCEVDEV/MegaWhisper)
+
+### 🛒 sistema_pedidos
+
+Sistema web para operação comercial, com catálogo de produtos, pedidos, clientes e painel administrativo. Inclui autenticação e integração com WhatsApp.
+
+**Stack:** Node.js · React · PostgreSQL · APIs REST · Autenticação
+
+[Ver projeto →](https://github.com/CaioRodrigoCEVDEV/sistema_pedidos)
+
+### 💰 Finance AI
+
+SaaS voltado para gestão financeira, com recursos relacionados a inteligência artificial.
+
+**Stack:** Node.js · PostgreSQL · Prisma · IA
+
+[Ver projeto →](https://github.com/CaioRodrigoCEVDEV/finance-ai-saas)
+
+### 🔤 ConvertTextEasy
+
+Produto web voltado para conversão e processamento de textos em diferentes formatos.
+
+[Ver projeto →](https://github.com/CaioRodrigoCEVDEV/converttexteasy)
+
+---
+
+## 🔨 Atualmente construindo
+
+Trabalho na evolução de aplicações desktop, sistemas web e automações, além de produtos ligados ao ecossistema OrderUp. Também sigo explorando o uso de IA local em recursos de transcrição, texto e fluxos automatizados.
+
+---
+
+## 📦 Outros projetos
+
+* **Tom FormalAI** — projeto voltado para auxiliar na formalização e melhoria de mensagens. [Ver extensão →](https://chromewebstore.google.com/detail/tom-formal-whatsapp/ffdngdkjgmagdmalehbodikpagnpnelo?hl=pt-BR&utm_source=ext_sidebar)
+* **ThunderUpdater** — aplicação para atualização e distribuição de versões. [Ver projeto →](https://github.com/CaioRodrigoCEVDEV/ThunderUpdater)
+* **gerador-playbook** — gerador de playbooks padronizados. [Ver projeto →](https://github.com/CaioRodrigoCEVDEV/gerador-playbook)
+* **avisosManutencao** — sistema de avisos de manutenção. [Ver projeto →](https://github.com/CaioRodrigoCEVDEV/avisosManutencao)
 
 ---
 
 ## 📫 Contato
 
-<p align="left">
-  <a href="mailto:contato@caiorodrigocev.com.br">
-    <img src="https://img.shields.io/badge/E--mail-000?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://caiorodrigocev.com.br">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=google-chrome" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Código simples, útil e bem estruturado.
-</p>
+* 🌐 Portfólio: [caiorodrigocev.com.br](https://caiorodrigocev.com.br)
+* 📬 E-mail: [contato@caiorodrigocev.com.br](mailto:contato@caiorodrigocev.com.br)
+* 💼 GitHub: [github.com/CaioRodrigoCEVDEV](https://github.com/CaioRodrigoCEVDEV)
