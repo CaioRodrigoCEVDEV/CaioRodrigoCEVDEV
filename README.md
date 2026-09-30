@@ -77,20 +77,6 @@ Gosto de pegar um problema real e transformá-lo em uma aplicação que funciona
       <a href="https://github.com/CaioRodrigoCEVDEV/sistema_pedidos">Ver projeto →</a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 Finance AI</h3>
-      <p>SaaS voltado para gestão financeira, com recursos relacionados a inteligência artificial.</p>
-      <p><strong>Stack:</strong> <code>Node.js · PostgreSQL · Prisma · IA</code></p>
-      <a href="https://github.com/CaioRodrigoCEVDEV/finance-ai-saas">Ver projeto →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔤 ConvertTextEasy</h3>
-      <p>Produto web voltado para conversão e processamento de textos.</p>
-      <p><strong>Stack:</strong> <code>Web</code></p>
-      <a href="https://github.com/CaioRodrigoCEVDEV/converttexteasy">Ver projeto →</a>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -111,15 +97,6 @@ Gosto de pegar um problema real e transformá-lo em uma aplicação que funciona
 - ⚡ [**ThunderUpdater**](https://github.com/CaioRodrigoCEVDEV/ThunderUpdater) — atualização e distribuição de versões.
 - 📚 [**gerador-playbook**](https://github.com/CaioRodrigoCEVDEV/gerador-playbook) — geração de playbooks padronizados.
 - 🔧 [**avisosManutencao**](https://github.com/CaioRodrigoCEVDEV/avisosManutencao) — avisos de manutenção.
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CaioRodrigoCEVDEV&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRodrigoCEVDEV&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
